@@ -1,0 +1,190 @@
+
+
+*******************************************************************************
+Tue Apr  4 15:53:33 2017
+
+
+FIT:    data read from "scottish_premier_position.txt" using 1:2
+        format = x:z
+        #datapoints = 191
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.69581e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 83.863
+
+initial set of free parameter values
+
+a               = 1
+b               = 100
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 8.7486e+09
+rel. change during last iteration : -5.24333e-13
+
+degrees of freedom    (FIT_NDF)                        : 189
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6803.59
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.62889e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 200.559          +/- 8.929        (4.452%)
+b               = 5997.58          +/- 1059         (17.66%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Tue Apr  4 15:53:45 2017
+
+
+FIT:    data read from "scottish_premier_position.txt" using 1:2
+        format = x:z
+        #datapoints = 191
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.7486e+09        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 83.863
+
+initial set of free parameter values
+
+a               = 200.559
+b               = 5997.58
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 8.7486e+09
+rel. change during last iteration : -4.36035e-16
+
+degrees of freedom    (FIT_NDF)                        : 189
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6803.59
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.62889e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 200.559          +/- 8.929        (4.452%)
+b               = 5997.58          +/- 1059         (17.66%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.885  1.000 
+
+
+*******************************************************************************
+Tue Apr  4 15:55:09 2017
+
+
+FIT:    data read from "scottish_premier_position.txt" using 2:1
+        format = x:z
+        #datapoints = 191
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+
+
+*******************************************************************************
+Tue Apr  4 15:55:13 2017
+
+
+FIT:    data read from "scottish_premier_position.txt" using 2:1
+        format = x:z
+        #datapoints = 191
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.1174e+20        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 6.07871e+08
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+c               = 1e-30
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 157635
+rel. change during last iteration : -9.91823e-09
+
+degrees of freedom    (FIT_NDF)                        : 188
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 28.9565
+variance of residuals (reduced chisquare) = WSSR/ndf   : 838.482
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Tue Apr  4 15:56:18 2017
+
+
+FIT:    data read from "scottish_premier_position.txt" using 2:1
+        format = x:z
+        #datapoints = 191
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.46911e+20       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 6.07871e+08
+
+initial set of free parameter values
+
+a               = 0.00299856
+b               = 2
+c               = 1000
+
+After 12 iterations the fit converged.
+final sum of squares of residuals : 148592
+rel. change during last iteration : -5.52695e-10
+
+degrees of freedom    (FIT_NDF)                        : 188
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 28.1138
+variance of residuals (reduced chisquare) = WSSR/ndf   : 790.385
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00093249       +/- 0.0007876    (84.46%)
+b               = 6.52779e-08      +/- 1.87e-08     (28.64%)
+c               = 21.0122          +/- 6.212        (29.57%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      c      
+a               1.000 
+b              -0.980  1.000 
+c              -0.776  0.653  1.000 

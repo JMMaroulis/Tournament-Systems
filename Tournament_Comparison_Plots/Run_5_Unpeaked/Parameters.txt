@@ -1,0 +1,5 @@
+num_leagues = int(1000)
+bottom_range = 5
+top_range = 101
+num_teams_top = 5
+num_teams_bottom = num_teams_top

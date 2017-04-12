@@ -1,0 +1,7 @@
+run 1 - initial attempt. now debunked due to scrambled data.
+
+run 2 - wildly divergent attempt. now debunked due to scrambled data.
+
+run 3 - new metrics, linear variables, position_metric based on top 20 internal rank
+
+run 4 - new metrics, linear variables, position_metric based on global historical rank
